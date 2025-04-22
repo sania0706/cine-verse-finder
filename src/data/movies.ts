@@ -21,6 +21,7 @@ export const GENRES = [
   "Romance",
   "Sci-Fi",
   "Thriller",
+  "Bollywood",
 ];
 
 export const movies: Movie[] = [
@@ -219,5 +220,70 @@ export const movies: Movie[] = [
     description: "A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom.",
     rating: 4.2,
     poster: "https://m.media-amazon.com/images/I/61F5VZovnnL._AC_SY679_.jpg",
+  },
+  // Bollywood section - Indian movies
+  {
+    id: 24,
+    title: "3 Idiots",
+    genre: "Bollywood",
+    description: "Three engineering students learn life lessons while dealing with the pressures of college and parental expectations.",
+    rating: 4.9,
+    poster: "https://m.media-amazon.com/images/I/51k1QOVz15L._AC_.jpg",
+  },
+  {
+    id: 25,
+    title: "Dangal",
+    genre: "Bollywood",
+    description: "Based on the true story of a former wrestler who trains his daughters to become world-class wrestlers.",
+    rating: 4.8,
+    poster: "https://m.media-amazon.com/images/I/91lNU6i+5YL._AC_SY679_.jpg",
+  },
+  {
+    id: 26,
+    title: "Shershaah",
+    genre: "Bollywood",
+    description: "The inspiring story of Captain Vikram Batra, a brave Indian soldier during the Kargil War.",
+    rating: 4.6,
+    poster: "https://m.media-amazon.com/images/I/81bXfPuDhdL._AC_SY679_.jpg",
+  },
+  {
+    id: 27,
+    title: "Zindagi Na Milegi Dobara",
+    genre: "Bollywood",
+    description: "Three friends set off on a bachelor trip that turns out to be a journey of self-discovery.",
+    rating: 4.7,
+    poster: "https://m.media-amazon.com/images/I/81FRAbycPwL._AC_SY679_.jpg",
+  },
+  {
+    id: 28,
+    title: "Gully Boy",
+    genre: "Bollywood",
+    description: "A coming-of-age story about a street rapper from Mumbai aspiring to fame.",
+    rating: 4.5,
+    poster: "https://m.media-amazon.com/images/I/71PKRo1PEgL._AC_SY679_.jpg",
+  },
+  {
+    id: 29,
+    title: "Queen",
+    genre: "Bollywood",
+    description: "A young woman embarks on a solo honeymoon trip after her marriage falls apart.",
+    rating: 4.4,
+    poster: "https://m.media-amazon.com/images/I/51cZQaVSPAL._AC_.jpg",
+  },
+  {
+    id: 30,
+    title: "Lagaan",
+    genre: "Bollywood",
+    description: "Indian villagers defy British colonialists through an epic cricket match.",
+    rating: 4.7,
+    poster: "https://m.media-amazon.com/images/I/81+pWBQHqJL._AC_SY679_.jpg",
+  },
+  {
+    id: 31,
+    title: "Kabhi Khushi Kabhie Gham",
+    genre: "Bollywood",
+    description: "Family drama unfolds with love, values, and relationships at its center.",
+    rating: 4.3,
+    poster: "https://m.media-amazon.com/images/I/71oqpX6UR-L._AC_SY679_.jpg",
   },
 ];
