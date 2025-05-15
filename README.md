@@ -1,6 +1,6 @@
 # 🎬 Movie Review Website
 
-Welcome to the **Movie Review Website** – a platform where users can explore, review, and rate their favorite movies! This project is built to provide movie lovers a space to discover and share opinions about films from all genres.
+Welcome to the **cine-verse-finder** – a platform where users can explore, review, and rate their favorite movies! This project is built to provide movie lovers a space to discover and share opinions about films from all genres.
 
 ---
 
@@ -30,7 +30,7 @@ Welcome to the **Movie Review Website** – a platform where users can explore, 
 1. **Clone the repo**
    ```bash
    git clone https://github.com/yourusername/movie-review-website.git
-   cd movie-review-website
+   cd cine-verse-finder
    ```
 
 2. **Install dependencies**
@@ -43,14 +43,8 @@ Welcome to the **Movie Review Website** – a platform where users can explore, 
    npm start
    ```
 
-4. **(Optional) Configure Environment Variables**
-   - Create a `.env` file and add:
-     ```
-     REACT_APP_API_KEY=your_api_key
-     ```
-
 
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [sania](https://github.com/sania0706)
