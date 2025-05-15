@@ -49,22 +49,6 @@ Welcome to the **Movie Review Website** – a platform where users can explore, 
      REACT_APP_API_KEY=your_api_key
      ```
 
----
-
-## 🚧 Folder Structure (React Example)
-
-```
-movie-review-website/
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── services/
-│   └── App.js
-├── .env
-├── package.json
-└── README.md
-```
 
 
 ## 👨‍💻 Author
