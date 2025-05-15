@@ -6,7 +6,7 @@ Welcome to the **cine-verse-finder** – a platform where users can explore, rev
 
 ## 🌐 Live Demo
 
-🔗 [Click here to visit the live website](#) *(Add link once deployed)*
+🔗 [https://cine-verse-finder.netlify.app](#)
 
 ---
 
